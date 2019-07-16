@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imgs/adlogo.png</file>
+        <file>imgs/moneybag.png</file>
+        <file>imgs/abrir.png</file>
+        <file>imgs/adicionarenv.png</file>
+        <file>imgs/configuracoes.png</file>
+        <file>imgs/editarenv.png</file>
+        <file>imgs/imprimir.png</file>
+        <file>imgs/info.png</file>
+        <file>imgs/moeda.png</file>
+        <file>imgs/nota.png</file>
+        <file>imgs/removerenv.png</file>
+        <file>imgs/sair.png</file>
+        <file>imgs/salvar.png</file>
+        <file>imgs/editarenv2.png</file>
+        <file>imgs/adlogopb.jpg</file>
+        <file>moneybag.ico</file>
+        <file>imgs/arquivo.png</file>
+        <file>imgs/calendario.png</file>
+        <file>imgs/adicionarpb.png</file>
+        <file>imgs/salvarpb.png</file>
+        <file>imgs/removerpb.png</file>
+    </qresource>
+</RCC>
